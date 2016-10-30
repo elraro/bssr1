@@ -1,5 +1,7 @@
 # Biometric Scores Set
 
+** Copyright The National Institute of Standards and Technology (NIST)**
+
 **This dataset has been discontinued.**
 
 Biometric Scores Set - Release 1 (BSSR1) is a set of raw output similarity scores from two c. 2002 face recognition systems and one c. 2004 fingerprint system, operating on frontal faces, and left and right index live-scan fingerprints, respectively. The release includes true multimodal score data, i.e. similarity scores from comparisons of faces and fingerprints of the same people.
