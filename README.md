@@ -1,6 +1,6 @@
 # Biometric Scores Set
 
-** Copyright The National Institute of Standards and Technology (NIST)**
+**Copyright The National Institute of Standards and Technology**
 
 **This dataset has been discontinued.**
 
